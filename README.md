@@ -1,1 +1,1 @@
-# EcommerceProject
+- This project is a e-commerce web page for Nike sneakers which was developed using JavaScript, HTML and CSS.
