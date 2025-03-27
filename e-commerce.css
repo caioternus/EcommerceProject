@@ -12,7 +12,7 @@ body
 nav {
     background-color: #111;
     color: white;
-    padding; 20px 50px;
+    padding: 20px 50px;
 }
 
 .navTop {
@@ -314,7 +314,7 @@ label {
 }
 
 .colors,
-.size {
+.sizes {
     display: flex;
     margin-bottom: 20px;
 }
@@ -548,7 +548,7 @@ footer {
         padding: 50px;
     }
 
-    .footer{
+    footer{
         flex-direction: column;
         align-items: center;
     }
