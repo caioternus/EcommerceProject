@@ -1,6 +1,6 @@
 // JavaScript source code
 const wrapper = document.querySelector(".sliderWrapper");
-const menuItems = document.querySelector(".menuItem");
+const menuItems = document.querySelectorAll(".menuItem");
 
 const products = [
     {
