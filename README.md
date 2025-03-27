@@ -8,4 +8,6 @@
 
 - The end user has access to a "buy button" in which it is possible to insert details of the payment method for shipping, such as user contact, prefered address and credit card number (only for Visa and MasterCard options);
 
-- In this e-commerce website example, the shipping cost is null (free-of-charge) to any destination.
+- In this e-commerce website example, the shipping cost is null (free-of-charge) to any destination;
+
+- The files "Nike-ecommerce1.jpg", "Nike-ecommerce2.jpg" and "Nike-ecommerce3.jpg" show the website appearance to the end user;
