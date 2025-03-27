@@ -6,4 +6,6 @@
 
 - Furthermore, before proceeding with the shipping order, the user must inform the product size and color. There are two color options for each sneaker model (e.g. black or dark blue, light gray or green, gray or black - these availability of color options depend on the choosen sneaker model) as well as different size options (e.g. 41, 42 or 43);
 
-- The end user has access to a "buy button" in which it is possible to insert credit card, address and contact information for shipping (only for Visa and MasterCard);
+- The end user has access to a "buy button" in which it is possible to insert details of the payment method for shipping, such as user contact, prefered address and credit card number (only for Visa and MasterCard options);
+
+- In this e-commerce website example, the shipping cost is null (free-of-charge) to any destination.
