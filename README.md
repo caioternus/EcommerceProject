@@ -11,3 +11,9 @@
 - In this e-commerce website example, the shipping cost is null (free-of-charge) to any destination;
 
 - The files "Nike-ecommerce1.jpg", "Nike-ecommerce2.jpg" and "Nike-ecommerce3.jpg" show the website appearance to the end user;
+
+![Nike-ecommerce1](https://github.com/user-attachments/assets/2f5cb15f-5ea8-4852-a5db-c62d459adbe6)
+
+![Nike-ecommerce2](https://github.com/user-attachments/assets/d6fca8cc-4cc3-4166-b9ea-d09469d89666)
+
+![Nike-ecommerce3](https://github.com/user-attachments/assets/4f8bdc57-bcc0-4b3d-8bc9-1c3b6572449c)
